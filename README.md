@@ -1,2 +1,2 @@
-Only backend completed yet.
-- Used Spring boot (intellij)
+# Only _backend_ completed yet.
+### Used Spring boot (intellij)
